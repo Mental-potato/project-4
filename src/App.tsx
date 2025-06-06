@@ -8,6 +8,7 @@ function App() {
     <>
       <main>
         <h1>hello react</h1>
+        <p>test</p>
       </main>
     </>
   )
